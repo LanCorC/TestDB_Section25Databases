@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c256c766-b7e0-46c5-b3be-be1ee9faa822" name="Changes" comment="setting up">
+    <list default="true" id="c256c766-b7e0-46c5-b3be-be1ee9faa822" name="Changes" comment="Section 25.431(Databases: Creating Databases with JDBC in Java): completing the lecture">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testjava.db" beforeDir="false" afterPath="$PROJECT_DIR$/testjava.db" afterDir="false" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707711686870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Section 25.431(Databases: Creating Databases with JDBC in Java): completing the lecture">
+      <created>1707808628502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707808628502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setting up" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting up" />
+    <MESSAGE value="Section 25.431(Databases: Creating Databases with JDBC in Java): completing the lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 25.431(Databases: Creating Databases with JDBC in Java): completing the lecture" />
   </component>
 </project>
