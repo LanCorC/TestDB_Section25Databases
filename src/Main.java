@@ -8,7 +8,7 @@ public class Main {
 
         try {
 //            Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\lance\\Documents\\CodingJava\\TestDB_Section25Databases\\testjava.db");
-            Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\lance\\Documents\\CodingJava\\TestDB_Section25Databases\\testjava.db");
+            Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Matty\\IdeaProjects\\TestDB_Section25Databases\\testjava.db");
 
 //            conn.setAutoCommit(false);
             Statement statement = conn.createStatement();
